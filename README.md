@@ -10,7 +10,7 @@ A fundamental computer vision tools lib based on open source libs (include openc
 
 4.points cloud
 
-5.cv
+5.image processing
 
 6.others(files read or save and some common tools)
 
