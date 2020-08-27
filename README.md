@@ -1,6 +1,6 @@
 # cvtools
 
-A fundamental computer vision tools lib based open source libs (include opencv, open3d, etc.). This tools lib includes following models:
+A fundamental computer vision tools lib based on open source libs (include opencv, open3d, etc.). This tools lib includes following models:
 
 1.handeye calibration (by using aruco)
 
@@ -14,4 +14,4 @@ A fundamental computer vision tools lib based open source libs (include opencv, 
 
 6.others(files read or save and some common tools)
 
-Tips: All code are tested, a few tools with problem are labeled.
+Tips: All codes are tested, a few tools with problem are labeled.
